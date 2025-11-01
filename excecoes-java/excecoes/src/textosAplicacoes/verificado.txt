@@ -1,0 +1,1 @@
+Este documento faz parte da aula de exceções verificadas em java.
